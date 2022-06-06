@@ -1,4 +1,4 @@
-# This is Advice webside from here you can get dfferent advices regarding all things. I am getting this all advice from an API which is ![](api.adviceslip.com).
+# This is Advice webside from here you can get dfferent advices regarding all things. I am getting this all advice from an API which is ![https://api.adviceslip.com/advice].
 
 # By clicking on GIVE ME ADVICE !!! you will get updated with some other advice.
 
