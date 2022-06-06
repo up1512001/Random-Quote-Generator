@@ -3,7 +3,7 @@
 # By clicking on GIVE ME ADVICE !!! you will get updated with some other advice.
 
 ## It's hosted on netlify
-![Live Link](https://random-quote-advice.netlify.app/)
+[https://random-quote-advice.netlify.app/]
 
 # Images
 
